@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quick News</string>
+    <string name="profile">Profile</string>
+    <string name="name">Ihsan Nurul Habib</string>
+    <string name="email">ihsan.inh@gmail.com</string>
+    <string name="news_by">By %1$s</string>
+    <string name="news_datetime">%1$s • %2$s</string>
+    <string name="tekno">Tekno</string>
+    <string name="all">Semua</string>
+    <string name="sport">Sport</string>
+    <string name="crypto">Crypto</string>
+    <string name="added_to_favorite">"Ditambahkan ke favorit"</string>
+</resources>
